@@ -40,5 +40,7 @@
 
 
 
-### Set-up Ubuntu 22.04 + Silicon chips + Parallele desktop
+#### Set-up Ubuntu 22.04 + Silicon chips + Parallele desktop
+
+- https://github.com/romain130492/robotic-resources/blob/main/set-up-ros2-gazebo-fortress-mac-silicon-parallel-desktop
 
