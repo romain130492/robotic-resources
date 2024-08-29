@@ -24,3 +24,10 @@
 [How to Configure MoveIt 2 for a Simulated Robot Arm](https://automaticaddison.com/how-to-configure-moveit-2-for-a-simulated-robot-arm/)
 
 [Complete Guide to the Moveit Setup Assistant for MoveIt 2](https://automaticaddison.com/complete-guide-to-the-moveit-setup-assistant-for-moveit-2/)
+
+
+
+
+
+## Set-up Ubuntu 22.04 + Silicon chips + Parallele desktop
+
