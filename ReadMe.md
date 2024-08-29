@@ -29,7 +29,16 @@
 
 
 
+### Bases on Kinematic
+
+- https://automaticaddison.com/tutorials/
+
+<img width="623" alt="Screenshot 2024-08-29 at 12 08 39" src="https://github.com/user-attachments/assets/e4f1b33f-20e6-48af-b75e-736f8582596b">
 
 
-## Set-up Ubuntu 22.04 + Silicon chips + Parallele desktop
+
+
+
+
+### Set-up Ubuntu 22.04 + Silicon chips + Parallele desktop
 
