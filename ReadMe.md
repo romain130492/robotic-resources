@@ -3,6 +3,14 @@
 
 
 
+### Bases on Ros2
+
+- Ros2 Playlist: https://www.youtube.com/watch?v=0aPbWsyENA8&list=PLLSegLrePWgJudpPUof4-nVFHGkB62Izy
+
+### Bases on Gazebo + Rviz2
+
+- https://www.udemy.com/course/ros2-tf-urdf-rviz-gazebo
+
 ### Tutorial: Create a robotic arm with Ros2 + Rviz2 + Gazebo
 
 [How to Model a Robotic Arm With a URDF File – ROS 2](https://automaticaddison.com/how-to-model-a-robotic-arm-with-a-urdf-file-ros-2/)
