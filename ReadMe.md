@@ -13,6 +13,8 @@
 
 ### Tutorial: Create a robotic arm with Ros2 + Rviz2 + Gazebo
 
+- [Github codebase for that tutorial](https://github.com/automaticaddison/mycobot_ros2/tree/main)
+
 [How to Model a Robotic Arm With a URDF File – ROS 2](https://automaticaddison.com/how-to-model-a-robotic-arm-with-a-urdf-file-ros-2/)
 
 [How to Create a Launch File for a Simulated Robotic Arm – ROS 2](https://automaticaddison.com/create-a-launch-file-for-a-simulated-robotic-arm-ros-2/)
