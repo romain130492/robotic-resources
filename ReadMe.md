@@ -1,4 +1,4 @@
-## Robotic Resources/ Software dev 
+## Robotic Resources for software development
 
 - Getting the right resources for robotics sucks. Hence here is a compilation:
 
