@@ -12,6 +12,9 @@
 
 - https://www.udemy.com/course/ros2-tf-urdf-rviz-gazebo
 
+### Rviz
+- [Links, joints, xacro, URDF](https://articulatedrobotics.xyz/tutorials/ready-for-ros/urdf/)
+
 ### Tutorial: Create a robotic arm with Ros2 + Rviz2 + Gazebo
 
 - [Github codebase for that tutorial](https://github.com/automaticaddison/mycobot_ros2/tree/main)
@@ -27,6 +30,7 @@
 [How to Configure MoveIt 2 for a Simulated Robot Arm](https://automaticaddison.com/how-to-configure-moveit-2-for-a-simulated-robot-arm/)
 
 [Complete Guide to the Moveit Setup Assistant for MoveIt 2](https://automaticaddison.com/complete-guide-to-the-moveit-setup-assistant-for-moveit-2/)
+
 
 
 
@@ -46,7 +50,6 @@
   - [Add-on for Blender to support robot model creations.](https://github.com/dfki-ric/phobos)
  
 #### Autodesk fusion
-
 - https://www.youtube.com/watch?v=gGgmA1WZESs
 
 
