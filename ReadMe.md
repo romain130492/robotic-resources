@@ -11,6 +11,7 @@
 ### Bases on Gazebo + Rviz2
 
 - https://www.udemy.com/course/ros2-tf-urdf-rviz-gazebo
+- To check: [Gazebo Classic](https://articulatedrobotics.xyz/tutorials/ready-for-ros/gazebo)
 
 ### Rviz
 - [Links, joints, xacro, URDF](https://articulatedrobotics.xyz/tutorials/ready-for-ros/urdf/)
