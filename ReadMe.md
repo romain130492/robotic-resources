@@ -34,9 +34,10 @@
 
 - https://automaticaddison.com/tutorials/
   
+<img width="623" alt="Screenshot 2024-08-29 at 12 08 39" src="https://github.com/user-attachments/assets/e4f1b33f-20e6-48af-b75e-736f8582596b">
+  
 - [Kinematic joints and degree of freedom playlist:] (https://www.youtube.com/playlist?list=PLrqEfTEEzLU4ZDZlaH_bkPslDZdgbQrxG)
 
-<img width="623" alt="Screenshot 2024-08-29 at 12 08 39" src="https://github.com/user-attachments/assets/e4f1b33f-20e6-48af-b75e-736f8582596b">
 
 
 ### Creating meshes
