@@ -43,7 +43,11 @@
 ### Creating meshes
 
 - [Creating meshes with Blander > URDF](https://www.youtube.com/watch?v=JGPyNxzVlYA&list=PL4MdFHVi1I5W_hOJN5jAGn3JLWDL7q1Tr)
-  - [Add-on for Blender to support robot model creations.](https://github.com/dfki-ric/phobos) 
+  - [Add-on for Blender to support robot model creations.](https://github.com/dfki-ric/phobos)
+ 
+#### Autodesk fusion
+
+- https://www.youtube.com/watch?v=gGgmA1WZESs
 
 
 
