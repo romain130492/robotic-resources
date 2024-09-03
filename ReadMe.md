@@ -55,6 +55,10 @@
 
 
 
+## Vision & Robotic
+
+- depth cameras : https://m.youtube.com/watch?v=T9xZ22i9-Ys&pp=ygUcU3RlcmVvIHZpc2lvbiBkZXB0aCBtYXAgcm9zMg%3D%3D
+
 
 
 #### Set-up Ubuntu 22.04 + Silicon chips + Parallele desktop
